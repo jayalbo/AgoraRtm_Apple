@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AgoraRtmKit",
-            url: "https://download.agora.io/rtmsdk/release/AgoraRtmKit.xcframework_2.2.4.zip",
-            checksum: "48993735528efaadc4009478288c32993818a4a23620e2b17f4608c3f78bc9e5"
+            url: "https://download.agora.io/rtmsdk/release/AgoraRtmKit.xcframework_2.2.4_lite_iOS.zip",
+            checksum: "714e19b248930ae46ef09d54fe8d6486956f1ee74df312fa10f5180dad975a5e"
         )
     ]
 )
